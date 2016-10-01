@@ -1,0 +1,4 @@
+//装入驱动并注册
+//获取数据库连接Connection
+//获取SQL执行对象Statement
+//
